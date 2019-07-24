@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="heroes_name">Pahlawan</string>
+    <string name="from">Asal</string>
+</resources>
